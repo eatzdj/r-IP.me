@@ -1,3 +1,1 @@
-# Telegram.RIP
-
-Telegram is dead, please salute.
+# r-Ip.me
